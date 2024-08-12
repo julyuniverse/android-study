@@ -2,7 +2,7 @@
 
 최초 작성일: 2024-08-02
 
-### google login
+### google login - 개발 중
 
 - 작성일: 2024-08-02
 - 내가 개발한 google login은 google id 인증이 android -> google 서버 -> android가 아닌 android -> 나의 서버(내가 개발한 서버) -> android 방식으로 인증 처리하도록 한다.
